@@ -41,7 +41,7 @@ public class Tree<T>
     /// </summary>
     /// <param name="instance">Root object used to build the derived tree.</param>
     /// <returns>A tree that contains values assignable to <typeparamref name="T" />.</returns>
-    public Tree<T> DeriveFrom(object instance)
+    public static Tree<T> DeriveFrom(object instance)
     {
         ArgumentNullException.ThrowIfNull(instance);
 
