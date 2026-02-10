@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Rvne.DerivedContainers/Rvne.DerivedContainers.csproj" />
+  <Project Path="Rvne.DerivedContainers.Generators/Rvne.DerivedContainers.Generators.csproj" />
+  <Project Path="Rvne.DerivedContainers.Tests/Rvne.DerivedContainers.Tests.csproj" />
+  <Project Path="Rvne.DerivedContainers.Demo/Rvne.DerivedContainers.Demo.csproj" />
+</Solution>
