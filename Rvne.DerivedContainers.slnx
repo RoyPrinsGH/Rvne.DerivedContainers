@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Rvne.DerivedContainers/Rvne.DerivedContainers.csproj" />
   <Project Path="Rvne.DerivedContainers.Generators/Rvne.DerivedContainers.Generators.csproj" />
+  <Project Path="Rvne.DerivedContainers.Benchmarks/Rvne.DerivedContainers.Benchmarks.csproj" />
 </Solution>
