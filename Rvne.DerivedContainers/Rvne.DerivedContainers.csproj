@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <PackageId>Rvne.DerivedContainers</PackageId>
-    <Version>2.1.2</Version>
+    <Version>0.0.1</Version>
     <Authors>Roy Prins (Rvne)</Authors>
-    <Description>Reflective options from attributes for nested node trees.</Description>
+    <Description>Derive a tree of nested instances of the same type within a given instance, and perform broad operations on it</Description>
     <RepositoryUrl>https://github.com/RoyPrinsGH/Rvne.DerivedContainers</RepositoryUrl>
     <PackageTags>options;attributes;reflection</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
